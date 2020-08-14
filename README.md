@@ -1,1 +1,1 @@
-Hi, I'm Ed Winchester. ![Ed Winchester](jpluscplusm/jpluscplusm/master/mugshot.jpg)
+Hi, I'm Ed Winchester. ![Ed Winchester](https://raw.githubusercontent.com/jpluscplusm/jpluscplusm/master/mugshot.jpg)
